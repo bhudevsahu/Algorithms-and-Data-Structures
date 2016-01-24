@@ -55,7 +55,7 @@ public class CompressWord
 					output+=""+ch[j];
 				}
 				
-				i++;					//Readjust the counters.
+				i++;					//Re-adjust the counters.
 				j=i-1;
 			}			
 		}
