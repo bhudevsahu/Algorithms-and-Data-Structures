@@ -15,7 +15,7 @@ package com.justcodeit;
  * 4235
  * 
  */
-public class ReverseNumber 
+public class ReverseNumber
 {
 
 	public static void main(String[] args) 
